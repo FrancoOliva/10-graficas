@@ -24,8 +24,6 @@ export class DonaComponent {
         '#FA250A', '#E0420F', '#FA6100', '#F007AF'
       ]
     }
-  ];
-
-  
+  ];  
 
 }
